@@ -1,0 +1,66 @@
+body {
+    background-color: burlywood;
+    border-radius: 8px;
+    margin-left: 10px; padding-left: 9px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  #evalove {
+    margin-left: 40%; border:outset indianred ;
+    margin-right: 20px;
+    border-width: 15px; width: px;
+    width: 99px;   
+  }
+
+  #whatwedo {
+    color: royalblue; border: outset; width: 170px; border-color: burlywood;
+  }
+  
+  #aboutus {
+    font-size: 30px;
+    border-style: outset;/*other options: solid, dashed, groove, outset, inset, hidden*/
+    border-color: burlywood;
+    color: steelblue;
+    width: 130px;
+  }
+  #ourpartners {
+    border: outset burlywood; width:170px;
+    padding-bottom: 10px;
+  }
+  
+  #div1 {
+    color: forestgreen;
+  }
+  #fname, #lname {
+    background-color: #333D51;
+    opacity: 0.9;
+  }
+  #age {
+    background-color: #6C7A89;
+    opacity: 0.5;/*transparency/opaque scale*/
+  }
+  #h2 {
+    color: white; background-color: black; margin-left: 20px;
+    background-image: url("C:\Users\user6\Pictures\wallpapers");
+  }
+  .table {
+    border: medium;
+  }
+
+  #facebook {
+    padding-left: 5px; padding-right: 5px;
+    text-decoration: none; width: 20px; height:fit-content;
+  }
+
+  #email {
+    text-decoration: none; padding-right: 5px; 
+  }
+
+  table, td, th {
+    border: solid 2px; width:auto; border-collapse: collapse;
+    padding:3px; cursor: pointer;
+  }
+
+  tr:hover {
+    background-color: chartreuse;
+  }
+  /*h1>b; h1+b; h1~b;
